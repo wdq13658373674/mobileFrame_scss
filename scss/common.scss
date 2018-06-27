@@ -1,0 +1,36 @@
+@import "base","core/reset";
+
+/*template*/
+.bar {
+  position: absolute;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  background-color: #f7f7f8;
+  -webkit-backface-visibility: hidden;//解决css3动画闪烁问题
+  backface-visibility: hidden;
+
+  /*header*/
+  &.header{
+    height:rem(88);
+    top:0;
+  }
+
+  &.footer{
+    height:rem(88);
+    bottom:0;
+  }
+}
+
+.page{
+  min-height:100%;
+}
+
+.bar-nav ~ .page{
+  padding-top:rem(88);
+}
+
+.bar-tab ~ .page{
+  padding-bottom:rem(88);
+}
+
