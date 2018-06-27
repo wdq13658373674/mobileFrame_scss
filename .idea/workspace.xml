@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5233e531-3ff2-4f5c-9056-0049d3f3a31a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wdq.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/flex.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/flex.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/flex2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/public.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/common.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_css3.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_grid.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_media-queries.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_mixin.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_reset.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/scss/core/_setting.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/theme/test/test.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change beforePath="$PROJECT_DIR$/scss/common.scss" afterPath="$PROJECT_DIR$/scss/common.scss" />
+      <change beforePath="$PROJECT_DIR$/theme/test/test.html" afterPath="$PROJECT_DIR$/theme/test/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,30 +22,18 @@
       <file leaf-file-name="common.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/common.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="664">
+              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_reset.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scss/core/_reset.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-              <folding>
-                <element signature="e#11092#12237#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/test/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="773">
+              <caret line="89" column="27" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -88,13 +64,13 @@
         <option value="$PROJECT_DIR$/koala-config.json" />
         <option value="$PROJECT_DIR$/scss/_base.scss" />
         <option value="$PROJECT_DIR$/scss/core/_setting.scss" />
-        <option value="$PROJECT_DIR$/theme/test/test.html" />
         <option value="$PROJECT_DIR$/js/flex.min.js" />
         <option value="$PROJECT_DIR$/js/flex2.js" />
         <option value="$PROJECT_DIR$/js/flex.js" />
         <option value="$PROJECT_DIR$/scss/core/_mixin.scss" />
-        <option value="$PROJECT_DIR$/scss/common.scss" />
         <option value="$PROJECT_DIR$/scss/core/_reset.scss" />
+        <option value="$PROJECT_DIR$/scss/common.scss" />
+        <option value="$PROJECT_DIR$/theme/test/test.html" />
       </list>
     </option>
   </component>
@@ -245,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530081463607</updated>
-      <workItem from="1530081472349" duration="7859000" />
+      <workItem from="1530081472349" duration="8057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7859000" />
+    <option name="totallyTimeSpent" value="8057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="142" y="29" width="1778" height="988" extended-state="0" />
@@ -379,14 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/test/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/core/_mixin.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
@@ -395,21 +363,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/core/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="e#11092#12237#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/common.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="664">
+          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/core/_reset.scss">
+    <entry file="file://$PROJECT_DIR$/theme/test/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#11092#12237#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="773">
+          <caret line="89" column="27" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
