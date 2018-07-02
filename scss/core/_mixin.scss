@@ -244,8 +244,12 @@
 }
 
 //1rem = $rem px
-@function rem($px){
+/*@function rem($px){
   @return $px / $rem * 1rem;
+}*/
+
+@function rem($px){
+  @return $px/$design-width*10 + rem;
 }
 
 //最小高度

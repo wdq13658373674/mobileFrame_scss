@@ -5,7 +5,7 @@
     function L() {
         var a = I.getBoundingClientRect().width;
         a / F > 540 && (a = 540 * F);
-        var d = a / 15;
+        var d = a / 15;//设置字体为15px
         I.style.fontSize = d + "px", D.rem = N.rem = d
     }
 
